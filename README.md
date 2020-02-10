@@ -2,7 +2,7 @@
 yarn add serialport
 parcel start
 ```
-then occur foloowing error
+then occur following error
 ```
 Uncaught TypeError: exists is not a function
     at Function.getRoot (index.js:1790)
